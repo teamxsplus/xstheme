@@ -1,0 +1,90 @@
+/* styles */
+body{
+    background-color: #222222;
+}
+#navbar{
+    background-color: #222222;
+    
+}
+
+.modal-button{
+    background-color: #156cdd;
+}
+
+.material-icons.align-text{
+    vertical-align: middle;
+}
+
+.material-icons.menu-icon{
+    font-size: 28px;
+    color: #156cdd;
+    background-color: #222;
+    border-radius: 28px 28px;
+    padding: 3px;
+}
+
+
+
+/* Textos */
+.secciones{
+    color: white;
+    font-family: 'Kanit', sans-serif;
+}
+.modal-text{
+    font-family: 'Kanit', sans-serif;
+}
+
+.menu-text{
+    font-family: 'Kanit', sans-serif;
+    color: white;
+}
+
+.text-btn{
+    color: white;
+}
+
+.button-play{
+    font-family: 'Kanit', sans-serif;
+    color: white;
+}
+
+.title-text{
+    font-family: 'Kanit', sans-serif;
+    color: white;
+    font-size: medium;
+}
+
+.detail-text{
+    font-family: 'Kanit', sans-serif;
+    color: white;
+    font-size: small;
+}
+
+/* Textos */
+
+/* Imagenes */
+#logo{
+    height: 25px;
+}
+
+.logo-movie{
+    width: 46%;    
+}
+
+.slide-image{
+    border-radius: 15px;
+    height: min-content;
+}
+.movie-poster{
+    border-radius: 7px;
+}
+/* Imagenes */
+
+
+
+
+
+
+
+
+
